@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piroz
 
-[![piroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=piroz)](https://github.com/anuraghazra/github-readme-stats)
+[![piroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=piroz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---

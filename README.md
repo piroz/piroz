@@ -7,13 +7,8 @@
 [![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/swift/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/swift/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/swift/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/swift/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<style>
-img.rounded {
-  border-radius: 50%;
-}
-</style>
-<p align="left">
-<img width="100px" class="rounded" alt="octo???" src="https://user-images.githubusercontent.com/8933647/236701150-952f69cc-97bc-4881-a381-df4bf02e1031.png" />
+<p align="left" style="width: 100px; border-radius: 50%; overflow: hidden;">
+<img alt="octo???" src="https://user-images.githubusercontent.com/8933647/236701150-952f69cc-97bc-4881-a381-df4bf02e1031.png" />
 </p>
 
 

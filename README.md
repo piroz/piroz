@@ -7,8 +7,14 @@
 [![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/swift/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/swift/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/swift/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/swift/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<p align="left" style="width: 100px; border-radius: 50%; overflow: hidden;">
-<img alt="octo???" src="https://user-images.githubusercontent.com/8933647/236701150-952f69cc-97bc-4881-a381-df4bf02e1031.png" />
+<p align="left">
+<svg width="100" height="100"
+  xmlns="http://www.w3.org/2000/svg">
+  <clipPath id="myClip">
+    <circle cx="50" cy="50" r="50" />
+  </clipPath>
+  <image href="https://user-images.githubusercontent.com/8933647/236701150-952f69cc-97bc-4881-a381-df4bf02e1031.png" height="100" width="100"/>
+</svg>
 </p>
 
 

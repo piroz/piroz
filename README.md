@@ -9,7 +9,7 @@
 
 
 <p align="left">
-<img width="100px" style="border-radius: 50%" alt="octo???" src="https://user-images.githubusercontent.com/8933647/236701150-952f69cc-97bc-4881-a381-df4bf02e1031.png" />
+<img width="100px" style="border-radius: 50%;" alt="octo???" src="https://user-images.githubusercontent.com/8933647/236701150-952f69cc-97bc-4881-a381-df4bf02e1031.png" />
 </p>
 
 

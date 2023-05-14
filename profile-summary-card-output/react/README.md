@@ -6,9 +6,9 @@
 ### Now you can add this to your markdown
 ```
 
-[![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./react/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./react/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./react/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./react/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./react/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ```
 
@@ -18,7 +18,7 @@
 ![](./0-profile-details.svg)
 
 ```
-![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/react/0-profile-details.svg)
+![](./react/0-profile-details.svg)
 ```
 
     
@@ -28,7 +28,7 @@
 ![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/react/1-repos-per-language.svg)
+![](./react/1-repos-per-language.svg)
 ```
 
     
@@ -38,7 +38,7 @@
 ![](./2-most-commit-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/react/2-most-commit-language.svg)
+![](./react/2-most-commit-language.svg)
 ```
 
     
@@ -48,7 +48,7 @@
 ![](./3-stats.svg)
 
 ```
-![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/react/3-stats.svg)
+![](./react/3-stats.svg)
 ```
 
     
@@ -58,7 +58,7 @@
 ![](./4-productive-time.svg)
 
 ```
-![](https://raw.githubusercontent.com/piroz/piroz/main/profile-summary-card-output/react/4-productive-time.svg)
+![](./react/4-productive-time.svg)
 ```
 
     
